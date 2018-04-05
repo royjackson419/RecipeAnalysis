@@ -1,6 +1,10 @@
 # RecipeAnalysis
 A data science approach to analyzing recipe data
 
+Data and much of inspiration credit to:
+
+https://www.kaggle.com/veereshelango/curious-on-epicurious-recipes
+
 Requirements
 
 Python 2.7

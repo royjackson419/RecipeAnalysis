@@ -43,10 +43,10 @@ git checkout -b Rahul's work
 after you change code
 
 git add *    
-# causes github to see changes
+#causes github to see changes
 
 git commit -m " a message about what you did"
-#  you typically do commits after completing some set of changes.   I commit 6x a day.  
+#you typically do commits after completing some set of changes.   I commit 6x a day.  
 
 git push
 #pushes the changes to the repository

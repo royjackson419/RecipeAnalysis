@@ -5,7 +5,7 @@ Data and much of inspiration credit to:
 
 https://www.kaggle.com/veereshelango/curious-on-epicurious-recipes
 
-Requirements
+# Requirements
 
 Python 2.7
 anaconda for python 2.7
@@ -28,7 +28,7 @@ git clone https://github.com/royjackson419/RecipeAnalysis
 
 enter the RecipeAnalysis folder you just got
 
-jupyter notebook
+# jupyter notebook
 
 from jupyter, open Salt%20Analysis.ipynb
 or
@@ -36,7 +36,7 @@ wordcloud.ipynb
 
 You can now run either program, and see some sweet analysis of recipes!
 
-To make edits:
+# To make edits:
 
 git checkout -b Rahul's work
 
@@ -55,11 +55,9 @@ once you have changes to pass to message, go to github, choose your branch, sele
 
 I can show the rest once we make it that far
 
-
-
 To update your code - say if I made changes you want
 
-commit your changes
+commit your changes per above
 
 git pull
 git merge master
